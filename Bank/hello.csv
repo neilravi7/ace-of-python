@@ -1,0 +1,9 @@
+id,name,email,signup_date,country,age,subscribed
+1,Alex Mercer,alex.mercer@example.com,2024-01-12,USA,29,true
+2,Jordan Blake,jordan.blake@example.com,2024-02-05,Canada,34,false
+3,Samantha Ray,samantha.ray@example.com,2024-03-20,UK,27,true
+4,Diego Rivera,diego.rivera@example.com,2024-04-11,Mexico,41,true
+5,Mei Lin,mei.lin@example.com,2024-05-03,China,31,false
+6,Owen Park,owen.park@example.com,2024-06-18,Australia,36,true
+7,Nora Patel,nora.patel@example.com,2024-07-22,India,26,false
+8,Lucas Silva,lucas.silva@example.com,2024-08-09,Brazil,30,true

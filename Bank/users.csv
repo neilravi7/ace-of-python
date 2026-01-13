@@ -1,0 +1,3 @@
+id,name,email,password,role,phone,address,is_active,account_number
+2087d48ae79c,Aysha Khaan,aysha@somebank.com,b'gAAAAABpYOFXw47E48XstL6ynn5pCxgO7j4TTnbOWqVh5x0j7q6EF6770c2L3r4Y4m99mG3k4uykrMwuDYN2YH23cDx8l8V0Xw==',customer,1234567890,"123, Snajivani coloney",True,BANK_0000cfd62174
+
