@@ -32,3 +32,4 @@ A practice project built with **core Python** to explore concepts like:
 ---
 
 ## 📂 Project Structure
+project/ │── admin.csv │── users.csv │── accounts.csv │── main.py │── README.md
